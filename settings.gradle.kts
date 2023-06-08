@@ -1,4 +1,4 @@
-rootProject.name = "fabric-example-mod-kotlin-with-kotlin-dsl"
+rootProject.name = "player-skin-grabber"
 pluginManagement {
     repositories {
         maven("https://maven.fabricmc.net/") {
